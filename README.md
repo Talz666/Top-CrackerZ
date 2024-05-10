@@ -2,7 +2,7 @@
 > [!IMPORTANT]
 > If you're new on linux operation system please follow the command below
 
-## Installation
+## Installation step by step
 
 > apt update -y
 
@@ -18,7 +18,7 @@
 
 > ./start-now.sh
 
-- or derect
+## Installation derect
 
 > [!TIP]
 > apt update -y || apt upgrade -y || pkg install curl || curl -o https://github.com/Talz666/Top-CrackerZ.git && cd Top-CrackerZ && chmod +x * && ./start-now.sh
