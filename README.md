@@ -1,6 +1,8 @@
-# Installation
+# How can i get it?
 > [!IMPORTANT]
 > If you're new on linux operation system please follow the command below
+
+## Installation
 
 > apt update -y
 
