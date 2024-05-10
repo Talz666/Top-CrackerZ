@@ -1,4 +1,7 @@
 # Installation
+> [!IMPORTANT]
+> If you're new on linux operation system please follow the command below
+
 > apt update -y
 
 > apt upgrade -y
@@ -13,6 +16,7 @@
 
 > ./start-now.sh
 
-**or derect**
+- or derect
 
+> [!TIP]
 > apt update -y || apt upgrade -y || pkg install curl || curl -o https://github.com/Talz666/Top-CrackerZ.git
